@@ -11,7 +11,7 @@ For More Interview Question Check [Multigrad.in](https://multigrad.com/)
 
 | No. |Topic | Questions |
 | --- | ----- | --------- |
-| 1 | Array| Reverse the array |||  
+| 1 | Array| Reverse the array  |||  
 | 2 | Array| Find the maximum and minimum element in an array| || 
 | 3 | Array| Find the "Kth" max and min element of an array|  || 
 | 4 |Array| Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo| |   
