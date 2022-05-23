@@ -8,8 +8,6 @@ For More Interview Question Check [Multigrad.in](https://multigrad.com/)
 
 ---
 
-<ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
-### Table of Contents
 
 | No. |Topic | Questions |
 | --- | ----- | --------- |
@@ -131,117 +129,113 @@ For More Interview Question Check [Multigrad.in](https://multigrad.com/)
 | 114 |Searching & Sorting| Aggressive cows| |   
 | 115 |Searching & Sorting| Book Allocation Problem| |   
 | 116 |Searching & Sorting| EKOSPOJ:| |   
-| 5 |Searching & Sorting| Job Scheduling Algo| |   
-| 5 |Searching & Sorting| Missing Number in AP| |   
-| 5 |Searching & Sorting| Smallest number with atleastn trailing zeroes infactorial| |   
-| 5 |Searching & Sorting| Painters Partition Problem:| |   
-| 5 |Searching & Sorting| ROTI-Prata SPOJ| |   
-| 5 |Searching & Sorting| DoubleHelix SPOJ| |   
-| 5 |Searching & Sorting| Subset Sums| |   
-| 5 |Searching & Sorting| Findthe inversion count| |   
-| 5 |Searching & Sorting| Implement Merge-sort in-place| |   
-| 5 |Searching & Sorting| Partitioning and Sorting Arrays with Many Repeated Entries| |   
-||| 5 | 
-||| 5 | 
-| 5 |LinkedList| Write a Program to reverse the Linked List. (Both Iterative and recursive)| |   
-| 5 |LinkedList| Reverse a Linked List in group of Given Size. [Very Imp]| |   
-| 5 |LinkedList| Write a program to Detect loop in a linked list.| |   
-| 5 |LinkedList| Write a program to Delete loop in a linked list.| |   
-| 5 |LinkedList| Find the starting point of the loop. | |   
-| 5 |LinkedList| Remove Duplicates in a sorted Linked List.| |   
-| 5 |LinkedList| Remove Duplicates in a Un-sorted Linked List.| |   
-| 5 |LinkedList| Write a Program to Move the last element to Front in a Linked List.| |   
-| 5 |LinkedList| Add “1” to a number represented as a Linked List.| |   
-| 5 |LinkedList| Add two numbers represented by linked lists.| |   
-| 5 |LinkedList| Intersection of two Sorted Linked List.| |   
-| 5 |LinkedList| Intersection Point of two Linked Lists.| |   
-| 5 |LinkedList| Merge Sort For Linked lists.[Very Important]| |   
-| 5 |LinkedList| Quicksort for Linked Lists.[Very Important]| |   
-| 5 |LinkedList| Find the middle Element of a linked list.| |   
-| 5 |LinkedList| Check if a linked list is a circular linked list.| |   
-| 5 |LinkedList| Split a Circular linked list into two halves.| |   
-| 5 |LinkedList| Write a Program to check whether the Singly Linked list is a palindrome or not.| |   
-| 5 |LinkedList| Deletion from a Circular Linked List.| |   
-| 5 |LinkedList| Reverse a Doubly Linked list.| |   
-| 5 |LinkedList| Find pairs with a given sum in a DLL.| |   
-| 5 |LinkedList| Count triplets in a sorted DLL whose sum is equal to given value “X”.| |   
-| 5 |LinkedList| Sort a “k”sorted Doubly Linked list.[Very IMP]| |   
-| 5 |LinkedList| Rotate DoublyLinked list by N nodes.| |   
-| 5 |LinkedList| Rotate a Doubly Linked list in group of Given Size.[Very IMP]| |   
-| 5 |LinkedList| Can we reverse a linked list in less than O(n) ?| |   
-| 5 |LinkedList| Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?| |   
-| 5 |LinkedList| Flatten a Linked List| |   
-| 5 |LinkedList| Sort a LL of 0's, 1's and 2's| |   
-| 5 |LinkedList| Clone a linked list with next and random pointer| |   
-| 5 |LinkedList| Merge K sorted Linked list| |   
-| 5 |LinkedList| Multiply 2 no. represented by LL| |   
-| 5 |LinkedList| Delete nodes which have a greater value on right side| |   
-| 5 |LinkedList| Segregate even and odd nodes in a Linked List| |   
-| 5 |LinkedList| Program for n’th node from the end of a Linked List| |   
-| 5 |LinkedList| Find the first non-repeating character from a stream of characters| |   
-||| 5 | 
-||| 5 | 
-| 5 |Binary Trees| level order traversal| |   
-| 5 |Binary Trees| Reverse Level Order traversal| |   
-| 5 |Binary Trees| Height of a tree| |   
-| 5 |Binary Trees| Diameter of a tree| |   
-| 5 |Binary Trees| Mirror of a tree| |   
-| 5 |Binary Trees| Inorder Traversal of a tree both using recursion and Iteration| |   
-| 5 |Binary Trees| Preorder Traversal of a tree both using recursion and Iteration| |   
-| 5 |Binary Trees| Postorder Traversal of a tree both using recursion and Iteration| |   
-| 5 |Binary Trees| Left View of a tree| |   
-| 5 |Binary Trees| Right View of Tree| |   
-| 5 |Binary Trees| Top View of a tree| |   
-| 5 |Binary Trees| Bottom View of a tree| |   
-| 5 |Binary Trees| Zig-Zag traversal of a binary tree| |   
-| 5 |Binary Trees| Check if a tree is balanced or not| |   
-| 5 |Binary Trees| Diagnol Traversal of a Binary tree| |   
-| 5 |Binary Trees| Boundary traversal of a Binary tree| |   
-| 5 |Binary Trees| Construct Binary Tree from String with Bracket Representation| |   
-| 5 |Binary Trees| Convert Binary tree into Doubly Linked List| |   
-| 5 |Binary Trees| Convert Binary tree into Sum tree| |   
-| 5 |Binary Trees| Construct Binary tree from Inorder and preorder traversal| |   
-| 5 |Binary Trees| Find minimum swaps required to convert a Binary tree into BST| |   
-| 5 |Binary Trees| Check if Binary tree is Sum tree or not| |   
-| 5 |Binary Trees| Check if all leaf nodes are at same level or not| |   
-| 5 |Binary Trees| Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]| |   
-| 5 |Binary Trees| Check if 2 trees are mirror or not| |   
-| 5 |Binary Trees| Sum of Nodes on the Longest path from root to leaf node|  |   
-| 5 |Binary Trees| Check if given graph is tree or not.  [ IMP ]| |   
-| 5 |Binary Trees| Find Largest subtree sum in a tree| |   
-| 5 |Binary Trees| Maximum Sum of nodes in Binary tree such that no two are adjacent|  |   
-| 5 |Binary Trees| Print all "K" Sum paths in a Binary tree| |   
-| 5 |Binary Trees| Find LCA in a Binary tree| |   
-| 5 |Binary Trees| Find distance between 2 nodes in a Binary tree| |   
-| 5 |Binary Trees| Kth Ancestor of node in a Binary tree| |   
-| 5 |Binary Trees| Find all Duplicate subtrees in a Binary tree [ IMP ]| |   
-| 5 |Binary Trees| Tree Isomorphism Problem| |   
-||| 5 | 
-||| 5 | 
-| 5 |Binary Search Trees| Fina a value in a BST| |   
-| 5 |Binary Search Trees| Deletion of a node in a BST| |   
-| 5 |Binary Search Trees| Find min and max value in a BST| |   
-| 5 |Binary Search Trees| Find inorder successor and inorder predecessor in a BST| |   
-| 5 |Binary Search Trees| Check if a tree is a BST or not|  |   
-| 5 |Binary Search Trees| Populate Inorder successor of all nodes| |   
-| 5 |Binary Search Trees| Find LCA  of 2 nodes in a BST| |   
-| 5 |Binary Search Trees| Construct BST from preorder traversal| |   
-| 5 |Binary Search Trees| Convert Binary tree into BST| |   
-| 5 |Binary Search Trees| Convert a normal BST into a Balanced BST| |   
-| 5 |Binary Search Trees| Merge two BST [ V.V.V>IMP ]| |   
-| 5 |Binary Search Trees| Find Kth largest element in a BST| |   
-| 5 |Binary Search Trees| Find Kth smallest element in a BST| |   
-| 5 |Binary Search Trees| Count pairs from 2 BST whose sum is equal to given value "X"| |   
-| 5 |Binary Search Trees| Find the median of BST in O(n) time and O(1) space| |   
-| 5 |Binary Search Trees| Count BST ndoes that lie in a given range| |   
-| 5 |Binary Search Trees| Replace every element with the least greater element on its right| |   
-| 5 |Binary Search Trees| Given "n" appointments, find the conflicting appointments| |   
-| 5 |Binary Search Trees| Check preorder is valid or not| |   
-| 5 |Binary Search Trees| Check whether BST contains Dead end| |   
-| 5 |Binary Search Trees| Largest BST in a Binary Tree [ V.V.V.V.V IMP ]| |   
-| 5 |Binary Search Trees| Flatten BST to sorted list| |   
-||| 5 | 
-||| 5 | 
+| 117 |Searching & Sorting| Job Scheduling Algo| |   
+|118 |Searching & Sorting| Missing Number in AP| |   
+| 119 |Searching & Sorting| Smallest number with atleastn trailing zeroes infactorial| |   
+| 120 |Searching & Sorting| Painters Partition Problem:| |   
+| 121 |Searching & Sorting| ROTI-Prata SPOJ| |   
+| 122 |Searching & Sorting| DoubleHelix SPOJ| |   
+| 123 |Searching & Sorting| Subset Sums| |   
+| 124 |Searching & Sorting| Findthe inversion count| |   
+| 125 |Searching & Sorting| Implement Merge-sort in-place| |   
+| 126 |Searching & Sorting| Partitioning and Sorting Arrays with Many Repeated Entries| |   
+||||  
+| 127 |LinkedList| Write a Program to reverse the Linked List. (Both Iterative and recursive)| |   
+| 128 |LinkedList| Reverse a Linked List in group of Given Size. [Very Imp]| |   
+| 129 |LinkedList| Write a program to Detect loop in a linked list.| |   
+| 130 |LinkedList| Write a program to Delete loop in a linked list.| |   
+| 131 |LinkedList| Find the starting point of the loop. | |   
+| 132 |LinkedList| Remove Duplicates in a sorted Linked List.| |   
+| 133 |LinkedList| Remove Duplicates in a Un-sorted Linked List.| |   
+| 134 |LinkedList| Write a Program to Move the last element to Front in a Linked List.| |   
+| 135 |LinkedList| Add “1” to a number represented as a Linked List.| |   
+| 136 |LinkedList| Add two numbers represented by linked lists.| |   
+| 137 |LinkedList| Intersection of two Sorted Linked List.| |   
+| 138 |LinkedList| Intersection Point of two Linked Lists.| |   
+| 139 |LinkedList| Merge Sort For Linked lists.[Very Important]| |   
+| 140 |LinkedList| Quicksort for Linked Lists.[Very Important]| |   
+| 141 |LinkedList| Find the middle Element of a linked list.| |   
+| 142 |LinkedList| Check if a linked list is a circular linked list.| |   
+| 143 |LinkedList| Split a Circular linked list into two halves.| |   
+| 144 |LinkedList| Write a Program to check whether the Singly Linked list is a palindrome or not.| |   
+| 145 |LinkedList| Deletion from a Circular Linked List.| |   
+| 146 |LinkedList| Reverse a Doubly Linked list.| |   
+| 147 |LinkedList| Find pairs with a given sum in a DLL.| |   
+| 148 |LinkedList| Count triplets in a sorted DLL whose sum is equal to given value “X”.| |   
+| 150 |LinkedList| Sort a “k”sorted Doubly Linked list.[Very IMP]| |   
+| 151 |LinkedList| Rotate DoublyLinked list by N nodes.| |   
+| 152 |LinkedList| Rotate a Doubly Linked list in group of Given Size.[Very IMP]| |   
+| 153 |LinkedList| Can we reverse a linked list in less than O(n) ?| |   
+| 154 |LinkedList| Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?| |   
+| 155 |LinkedList| Flatten a Linked List| |   
+| 156 |LinkedList| Sort a LL of 0's, 1's and 2's| |   
+| 157 |LinkedList| Clone a linked list with next and random pointer| |   
+| 158 |LinkedList| Merge K sorted Linked list| |   
+| 159 |LinkedList| Multiply 2 no. represented by LL| |   
+| 160 |LinkedList| Delete nodes which have a greater value on right side| |   
+| 161 |LinkedList| Segregate even and odd nodes in a Linked List| |   
+| 162 |LinkedList| Program for n’th node from the end of a Linked List| |   
+| 163 |LinkedList| Find the first non-repeating character from a stream of characters| |   
+||||  
+| 164 |Binary Trees| level order traversal| |   
+| 165 |Binary Trees| Reverse Level Order traversal| |   
+| 166 |Binary Trees| Height of a tree| |   
+| 167 |Binary Trees| Diameter of a tree| |   
+| 168 |Binary Trees| Mirror of a tree| |   
+| 169 |Binary Trees| Inorder Traversal of a tree both using recursion and Iteration| |   
+| 170 |Binary Trees| Preorder Traversal of a tree both using recursion and Iteration| |   
+| 171 |Binary Trees| Postorder Traversal of a tree both using recursion and Iteration| |   
+| 172 |Binary Trees| Left View of a tree| |   
+| 173 |Binary Trees| Right View of Tree| |   
+| 174 |Binary Trees| Top View of a tree| |   
+| 175 |Binary Trees| Bottom View of a tree| |   
+| 176 |Binary Trees| Zig-Zag traversal of a binary tree| |   
+| 177 |Binary Trees| Check if a tree is balanced or not| |   
+| 178 |Binary Trees| Diagnol Traversal of a Binary tree| |   
+| 179 |Binary Trees| Boundary traversal of a Binary tree| |   
+| 180 |Binary Trees| Construct Binary Tree from String with Bracket Representation| |   
+| 181 |Binary Trees| Convert Binary tree into Doubly Linked List| |   
+| 182 |Binary Trees| Convert Binary tree into Sum tree| |   
+| 183 |Binary Trees| Construct Binary tree from Inorder and preorder traversal| |   
+| 184 |Binary Trees| Find minimum swaps required to convert a Binary tree into BST| |   
+| 185 |Binary Trees| Check if Binary tree is Sum tree or not| |   
+| 186 |Binary Trees| Check if all leaf nodes are at same level or not| |   
+| 187 |Binary Trees| Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]| |   
+| 188 |Binary Trees| Check if 2 trees are mirror or not| |   
+| 189 |Binary Trees| Sum of Nodes on the Longest path from root to leaf node|  |   
+| 190 |Binary Trees| Check if given graph is tree or not.  [ IMP ]| |   
+| 191 |Binary Trees| Find Largest subtree sum in a tree| |   
+| 192 |Binary Trees| Maximum Sum of nodes in Binary tree such that no two are adjacent|  |   
+| 193 |Binary Trees| Print all "K" Sum paths in a Binary tree| |   
+| 194 |Binary Trees| Find LCA in a Binary tree| |   
+| 195 |Binary Trees| Find distance between 2 nodes in a Binary tree| |   
+| 196 |Binary Trees| Kth Ancestor of node in a Binary tree| |   
+| 197 |Binary Trees| Find all Duplicate subtrees in a Binary tree [ IMP ]| |   
+| 198 |Binary Trees| Tree Isomorphism Problem| |   
+|||| 
+| 199 |Binary Search Trees| Fina a value in a BST| |   
+| 200 |Binary Search Trees| Deletion of a node in a BST| |   
+| 201 |Binary Search Trees| Find min and max value in a BST| |   
+| 202 |Binary Search Trees| Find inorder successor and inorder predecessor in a BST| |   
+| 203 |Binary Search Trees| Check if a tree is a BST or not|  |   
+| 204 |Binary Search Trees| Populate Inorder successor of all nodes| |   
+| 205 |Binary Search Trees| Find LCA  of 2 nodes in a BST| |   
+| 206 |Binary Search Trees| Construct BST from preorder traversal| |   
+| 207 |Binary Search Trees| Convert Binary tree into BST| |   
+| 208 |Binary Search Trees| Convert a normal BST into a Balanced BST| |   
+| 209 |Binary Search Trees| Merge two BST [ V.V.V>IMP ]| |   
+| 210 |Binary Search Trees| Find Kth largest element in a BST| |   
+| 211 |Binary Search Trees| Find Kth smallest element in a BST| |   
+| 212 |Binary Search Trees| Count pairs from 2 BST whose sum is equal to given value "X"| |   
+| 213 |Binary Search Trees| Find the median of BST in O(n) time and O(1) space| |   
+| 214 |Binary Search Trees| Count BST ndoes that lie in a given range| |   
+| 215 |Binary Search Trees| Replace every element with the least greater element on its right| |   
+| 216 |Binary Search Trees| Given "n" appointments, find the conflicting appointments| |   
+| 217 |Binary Search Trees| Check preorder is valid or not| |   
+| 218 |Binary Search Trees| Check whether BST contains Dead end| |   
+| 219 |Binary Search Trees| Largest BST in a Binary Tree [ V.V.V.V.V IMP ]| |   
+| 220 |Binary Search Trees| Flatten BST to sorted list| |   
+||| |
 | 5 |Greedy| Activity Selection Problem| |   
 | 5 |Greedy| Job SequencingProblem| |   
 | 5 |Greedy| Huffman Coding| |   
@@ -338,8 +332,7 @@ Greedy| Find maximum sum possible equal sum of three stacks| |
 | 5 |Stacks & Queues| Minimum sum of squares of character counts in a given string after removing “k” characters.| |   
 | 5 |Stacks & Queues| Queue based approach or first non-repeating character in a stream.| |   
 | 5 |Stacks & Queues| Next Smaller Element| |   
-||| 5 | 
-||| 5 | 
+||| | 
 | 5 |Heap| Implement a Maxheap/MinHeap using arrays and recursion.| |   
 | 5 |Heap| Sort an Array using heap. (HeapSort)| |   
 | 5 |Heap| Maximum of all subarrays of size k.| |   
